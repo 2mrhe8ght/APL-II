@@ -189,7 +189,7 @@ function App() {
           </form>
 
           <div className="map-box">
-            <iframe title="college-map" src="https://www.google.com/maps/embed?pb=!1m18..." allowFullScreen loading="lazy"></iframe>
+            <iframe title="college-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.895000114608!2d74.23795497525143!3d16.732090084047545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc1008d2532b153%3A0xa154d05f5c9250ae!2sD.%20Y.%20Patil%20College%20Of%20Engineering%20%26%20Technology!5e0!3m2!1sen!2sin!4v1762515235913!5m2!1sen!2sin" allowFullScreen loading="lazy"></iframe>
           </div>
         </div>
       </section>
